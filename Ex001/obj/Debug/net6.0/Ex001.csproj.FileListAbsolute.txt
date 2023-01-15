@@ -1,0 +1,15 @@
+K:\Study\GB c# lesson1\Ex001\bin\Debug\net6.0\Ex001.exe
+K:\Study\GB c# lesson1\Ex001\bin\Debug\net6.0\Ex001.deps.json
+K:\Study\GB c# lesson1\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+K:\Study\GB c# lesson1\Ex001\bin\Debug\net6.0\Ex001.dll
+K:\Study\GB c# lesson1\Ex001\bin\Debug\net6.0\Ex001.pdb
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.dll
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.pdb
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+K:\Study\GB c# lesson1\Ex001\obj\Debug\net6.0\ref\Ex001.dll
